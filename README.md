@@ -17,4 +17,7 @@ Operations team at spotify has requested a report to see the below queries on a 
 4. Distribution of users in India, USA and all other countries
 
 
-5. No. of users who did a purchase one day after installing the app
+5. Users who made a purchase on the next day of installing the app
+
+
+6. Total users per day who installed on that day and purchased on next
